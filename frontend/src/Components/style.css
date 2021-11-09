@@ -1,0 +1,93 @@
+
+
+.con{
+ 
+  margin-top: 5rem;
+  background: #edc0bf;
+  background: linear-gradient(90deg, #edc0bf 0,#c4caef 58%);
+  font-family: 'Inter', sans-serif;
+  border-radius: 15px !important;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  margin-bottom: 10rem;
+  padding-left: 50rem;
+  
+}
+.con2{
+   
+    margin-top: 5rem !important;
+    background: #edc0bf;
+    background: linear-gradient(90deg, #edc0bf 0,#c4caef 58%);
+    font-family: 'Inter', sans-serif;
+    border-radius: 15px !important;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+   
+
+}
+.con3{
+    height: 100vh;
+    margin-top: 5rem !important;
+    background: #edc0bf;
+    background: linear-gradient(90deg, #edc0bf 0,#c4caef 58%);
+    font-family: 'Inter', sans-serif;
+    border-radius: 15px !important;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.fboader{
+    border: 2px solid #f7f9fc;
+     padding: 30px;
+     border-radius: 15px !important;
+}
+
+.inputs{
+border: none;
+border-radius: 5px !important;
+margin-left: -5px;
+margin-top: 5px;
+    
+}
+.inputs2{
+    border: none;
+    border-radius: 5px !important;
+    margin-left: 5px;
+}
+
+.MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #98a3ec !important;
+}
+
+.MuiButton-containedPrimary:hover
+{
+    background-color: #c4caef !important;
+} 
+
+.MuiButton-containedSecondary {
+    color: #fff;
+    background-color: #ec447f !important;
+}
+
+.MuiButton-containedSecondary:hover{
+   
+    background-color: #f579b3 !important;
+}
+.nav-link{
+    margin: 10px !important;
+    width: 5rem;
+    padding: 0px 5px;
+    border-radius: 5px;
+}
+
+.nav-link:hover{
+  color: #fff7fa !important;
+  background-color: #f579b3;
+  border-radius: 5px;
+  
+  
+ 
+   
+}
+
+.colnew{
+    --bs-gutter-x: 35.5rem !important;
+}
